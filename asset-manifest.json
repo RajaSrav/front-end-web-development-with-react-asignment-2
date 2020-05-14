@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/front-end-web-development-with-react-asignment-2/static/css/main.bc3c158c.chunk.css",
+    "main.js": "/front-end-web-development-with-react-asignment-2/static/js/main.edd572a2.chunk.js",
+    "main.js.map": "/front-end-web-development-with-react-asignment-2/static/js/main.edd572a2.chunk.js.map",
+    "runtime-main.js": "/front-end-web-development-with-react-asignment-2/static/js/runtime-main.0b152020.js",
+    "runtime-main.js.map": "/front-end-web-development-with-react-asignment-2/static/js/runtime-main.0b152020.js.map",
+    "static/css/2.a856b994.chunk.css": "/front-end-web-development-with-react-asignment-2/static/css/2.a856b994.chunk.css",
+    "static/js/2.14951915.chunk.js": "/front-end-web-development-with-react-asignment-2/static/js/2.14951915.chunk.js",
+    "static/js/2.14951915.chunk.js.map": "/front-end-web-development-with-react-asignment-2/static/js/2.14951915.chunk.js.map",
+    "index.html": "/front-end-web-development-with-react-asignment-2/index.html",
+    "precache-manifest.afcb2782e404d95042af8fe37100b983.js": "/front-end-web-development-with-react-asignment-2/precache-manifest.afcb2782e404d95042af8fe37100b983.js",
+    "service-worker.js": "/front-end-web-development-with-react-asignment-2/service-worker.js",
+    "static/css/2.a856b994.chunk.css.map": "/front-end-web-development-with-react-asignment-2/static/css/2.a856b994.chunk.css.map",
+    "static/css/main.bc3c158c.chunk.css.map": "/front-end-web-development-with-react-asignment-2/static/css/main.bc3c158c.chunk.css.map",
+    "static/js/2.14951915.chunk.js.LICENSE.txt": "/front-end-web-development-with-react-asignment-2/static/js/2.14951915.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.css": "/front-end-web-development-with-react-asignment-2/static/media/fontawesome-webfont.fee66e71.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0b152020.js",
+    "static/css/2.a856b994.chunk.css",
+    "static/js/2.14951915.chunk.js",
+    "static/css/main.bc3c158c.chunk.css",
+    "static/js/main.edd572a2.chunk.js"
+  ]
+}
